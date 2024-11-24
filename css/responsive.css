@@ -22,6 +22,7 @@
 		display: inline-block !important;
 		font-size: 12px !important;
 		transition: .5s !important;
+		text-decoration: none;
 	}
 	.banner_social_link li a:hover{
 		background: #fff !important;
