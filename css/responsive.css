@@ -203,6 +203,7 @@
 		margin: 0px 10px 0px 0px !important;
 		font-weight: 400 !important;
 		transition: all .3s ease-in-out !important;
+		text-decoration: none;
 	}
 	.blog-thumb h4{
 		font-size: 18px !important;
